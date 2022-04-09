@@ -1,0 +1,15 @@
+.header{
+    margin-top: 12px;
+}
+.header a{
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 18px;
+    color: black;
+}
+
+.header a:hover{
+    background-color: crimson;
+    color: white;
+    
+}

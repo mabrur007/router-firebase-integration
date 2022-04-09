@@ -3,5 +3,5 @@
 ## Project workflow 
 
 - firebase integrated with the project
-- react routes installed and added
+- react routes installed and added in components
 
