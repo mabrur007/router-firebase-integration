@@ -20,7 +20,7 @@ const Header = () => {
           <span>{ user?.displayName}</span>
           {
             user?.uid ?
-              <button onClick={() => signOut()}>Log Out</button>
+              <button onClick={() => signOut(auth)}>Log Out</button>
               :
               <Link to="/login">LogIn</Link>
           }
